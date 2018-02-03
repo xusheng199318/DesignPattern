@@ -1,0 +1,8 @@
+package com.arthur.iterator;
+
+/**
+ * Created by Arthur on 2018/2/3.
+ */
+public interface Menu {
+    Iterator createIterator();
+}
